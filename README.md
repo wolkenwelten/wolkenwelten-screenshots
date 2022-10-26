@@ -1,6 +1,11 @@
 # WolkenWelten Screenshots
 Here you can see current (and old) screenshots of the Rust WolkenWelten rewrite.
 
+### 2022-10-26 - Ambient occlusion
+![Ambient occlusion](./2022_10_26_ao.jpg)
+Figured out why ambient occlusion wasn't working before, now things look much
+nicer.
+
 ### 2022-10-26 - Smooth lighting
 ![Smooth shading](./2022_10_26.jpg)
 Still very much a prototype, but we're getting there, the lightmap calculation is
