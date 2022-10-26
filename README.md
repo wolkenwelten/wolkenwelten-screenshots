@@ -1,6 +1,11 @@
 # WolkenWelten Screenshots
 Here you can see current (and old) screenshots of the Rust WolkenWelten rewrite.
 
+### 2022-10-26 - Smooth lighting
+![Smooth shading](./2022_10_26.jpg)
+Still very much a prototype, but we're getting there, the lightmap calculation is
+still incorrect quite often since it doesn't look at neighboring chunks yet.
+
 ### 2022-10-25 - Flat shading
 ![Flat shading](./2022_10_25.png)
 Got flat shading to work, although there currently are no lightmaps, so I'm using
