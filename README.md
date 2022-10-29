@@ -1,6 +1,12 @@
 # WolkenWelten Screenshots
 Here you can see current (and old) screenshots of the Rust WolkenWelten rewrite.
 
+### 2022-10-29 - Dynamic world
+![Dynamic world](./2022_10_29.jpg)
+Now we automatically recalculate lightmaps/meshes as the underlying voxel
+data changes. In order to test this out the pears now explode on contact, leaving
+behind a nice crater.
+
 ### 2022-10-26 - Ambient occlusion
 ![Ambient occlusion](./2022_10_26_ao.jpg)
 Figured out why ambient occlusion wasn't working before, now things look much
