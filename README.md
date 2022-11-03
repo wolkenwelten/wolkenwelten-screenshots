@@ -1,6 +1,11 @@
 # WolkenWelten Screenshots
 Here you can see current (and old) screenshots of the Rust WolkenWelten rewrite.
 
+### 2022-11-03 - Particles
+![Explosive particles](./2022_11_03.jpg)
+Finally got around to adding a simple particle system so the exploding pears look less
+off. The effect of course looks slightly nicer animated :)
+
 ### 2022-10-29 - Dynamic world
 ![Dynamic world](./2022_10_29.jpg)
 Now we automatically recalculate lightmaps/meshes as the underlying voxel
