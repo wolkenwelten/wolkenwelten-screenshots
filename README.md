@@ -1,6 +1,12 @@
 # WolkenWelten Screenshots
 Here you can see current (and old) screenshots of the Rust WolkenWelten rewrite.
 
+### 2022-11-04 - Voxel meshes
+![Explosive particles](./2022_11_04.jpg)
+And now we can import voxel meshes from .vox files that can be created with tools such as
+goxel. Since we are using the same meshgen function that's doing the world we get ambient occlusion
+as well.
+
 ### 2022-11-03 - Particles
 ![Explosive particles](./2022_11_03.jpg)
 Finally got around to adding a simple particle system so the exploding pears look less
