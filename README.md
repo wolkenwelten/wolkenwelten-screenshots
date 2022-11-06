@@ -1,6 +1,11 @@
 # WolkenWelten Screenshots
 Here you can see current (and old) screenshots of the Rust WolkenWelten rewrite.
 
+### 2022-11-06 - Healthbar
+![Hearts](./2022_11_04.jpg)
+Got around to building a crude health system and UI to show the current player's health, next up:
+fall damage.
+
 ### 2022-11-04 - Voxel meshes
 ![Explosive particles](./2022_11_04.jpg)
 And now we can import voxel meshes from .vox files that can be created with tools such as
