@@ -1,8 +1,13 @@
 # WolkenWelten Screenshots
 Here you can see current (and old) screenshots of the Rust WolkenWelten rewrite.
 
+### 2022-11-10 - Landscapes
+![Mountains](./2022_11_10.jpg)
+Played around with the `noise` crate and made a (hopefully) slightly more appealing
+world generator.
+
 ### 2022-11-06 - Healthbar
-![Hearts](./2022_11_04.jpg)
+![Hearts](./2022_11_06.jpg)
 Got around to building a crude health system and UI to show the current player's health, next up:
 fall damage.
 
