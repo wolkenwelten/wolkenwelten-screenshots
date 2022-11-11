@@ -1,6 +1,10 @@
 # WolkenWelten Screenshots
 Here you can see current (and old) screenshots of the Rust WolkenWelten rewrite.
 
+### 2022-11-11 - (Better) Landscapes
+![Mountains](./2022_11_11.jpg)
+Improved the landscape generator a bit, mainly less artifacts and nicer mountains.
+
 ### 2022-11-10 - Landscapes
 ![Mountains](./2022_11_10.jpg)
 Played around with the `noise` crate and made a (hopefully) slightly more appealing
