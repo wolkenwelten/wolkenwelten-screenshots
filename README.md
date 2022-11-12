@@ -1,6 +1,12 @@
 # WolkenWelten Screenshots
 Here you can see current (and old) screenshots of the Rust WolkenWelten rewrite.
 
+### 2022-11-12 - Fancy trees
+![A fancy tree](./2022_11_12.jpg)
+Added functionality so that .vox assets can be used during worldgen, tried it out
+with a tree I modeled in goxel in a couple minutes, so far everything looks very
+promising. Might look into adding distortiong filters to add a bit of variance.
+
 ### 2022-11-11 - (Better) Landscapes
 ![Mountains](./2022_11_11.jpg)
 Improved the landscape generator a bit, mainly less artifacts and nicer mountains.
