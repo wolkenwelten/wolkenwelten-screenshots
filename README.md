@@ -1,6 +1,12 @@
 # WolkenWelten Screenshots
 Here you can see current (and old) screenshots of the Rust WolkenWelten rewrite.
 
+### 2022-11-16 - Better worldgen and better hidden surface removal
+![A valley](./2022_11_16.jpg)
+Now every tree/bush/rock is a .vox asset that gets blitted into the world, I still
+need to implement some filters to make them look less uniform, though it already
+looks quite nice as is.
+
 ### 2022-11-13 - Added some variety
 ![A fancy tree](./2022_11_13.jpg)
 Fixed a couple of graphical glitches, and apart from that added 2 new tree models.
