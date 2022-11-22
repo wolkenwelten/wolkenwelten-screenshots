@@ -1,6 +1,12 @@
 # WolkenWelten Screenshots
 Here you can see current (and old) screenshots of the Rust WolkenWelten rewrite.
 
+### 2022-11-22 - Block mining
+![Mining some grass](./2022_11_22.jpg)
+Now one can mine blocks as one would expect coming from other games, different
+blocks already take different amounts of time to mine, but since there is no
+inventory yet one can't equip a pickaxe.
+
 ### 2022-11-20 - Much better lighting
 ![Finally no more obvious artifacts](./2022_11_20.jpg)
 Finally improved the lighting system so it can go across chunk boundaries, while everthing
