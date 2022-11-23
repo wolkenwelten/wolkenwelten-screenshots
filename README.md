@@ -1,6 +1,11 @@
 # WolkenWelten Screenshots
 Here you can see current (and old) screenshots of the Rust WolkenWelten rewrite.
 
+### 2022-11-23 - Block icons
+![Some icons](./2022_11_23.jpg)
+Added code that automatically generates icons from the block definitions which
+are now used in the inventory screen so we don't have to print the name anymore.
+
 ### 2022-11-22 - Item drops
 ![Some dropped blocks](./2022_11_22_drop.jpg)
 We now have item drops that can be collected, since we don't have an inventory they basically
